@@ -28,7 +28,7 @@ h1{
 
   
 }
-pic{
+pic img{
   height: 40px;
   width: 5px;
 }
