@@ -20,6 +20,7 @@ h1{
   width: fit-content;
   padding: 20px;
   border-radius: 5px;
+  margin: auto;
 
   
 }
