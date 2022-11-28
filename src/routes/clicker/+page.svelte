@@ -11,7 +11,7 @@
 
 <pic> <img src="https://houseinspectionhelp.com/3/images/small-old-house.jpg" alt="Small house">
 </pic>
-
+<buttom type="Submit">"Buy small orphanage"</buttom>
 <h2>
 </h2>
 
