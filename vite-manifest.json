@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-ed0f03b1.js",
+    "file": "_app/immutable/start-7f2ce9b2.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -16,7 +16,7 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-c9c607ce.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-3932c47c.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
@@ -40,9 +40,9 @@
       "_index-46982e98.js"
     ]
   },
-  "src/routes/Orphan Clicker/+page.svelte": {
-    "file": "_app/immutable/components/pages/Orphan Clicker/_page.svelte-72986ef4.js",
-    "src": "src/routes/Orphan Clicker/+page.svelte",
+  "src/routes/clicker/+page.svelte": {
+    "file": "_app/immutable/components/pages/clicker/_page.svelte-5ba6681d.js",
+    "src": "src/routes/clicker/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-46982e98.js"
@@ -90,7 +90,7 @@
     "file": "_app/immutable/chunks/_layout-5d13426d.js"
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-3df92e27.js",
+    "file": "_app/immutable/chunks/0-2b0e284a.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -115,11 +115,11 @@
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-501d7bd7.js",
+    "file": "_app/immutable/chunks/3-7f5986d9.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
-      "src/routes/Orphan Clicker/+page.svelte"
+      "src/routes/clicker/+page.svelte"
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
@@ -130,9 +130,9 @@
       "src/routes/telltale/+page.svelte"
     ]
   },
-  "src/routes/Orphan Clicker/+page.css": {
+  "src/routes/clicker/+page.css": {
     "file": "_app/immutable/assets/_page-f5469939.css",
-    "src": "src/routes/Orphan Clicker/+page.css"
+    "src": "src/routes/clicker/+page.css"
   },
   "src/routes/telltale/+page.css": {
     "file": "_app/immutable/assets/_page-d87fb246.css",
