@@ -3,13 +3,12 @@
 
 </script>
 
-
+<center>
 <h1>
-  class="title">Orphan Clicker
+  Orphan Clicker
 </h1>
-.title {
-  text-align: center;
-}
+</center>
+
 <h2>JA</h2>
 
 
