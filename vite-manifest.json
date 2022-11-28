@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-8aed188c.js",
+    "file": "_app/immutable/start-acd78466.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -33,22 +33,22 @@
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-1f33bca0.js",
+    "file": "_app/immutable/components/pages/_page.svelte-f66d5746.js",
     "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-46982e98.js"
+    ]
+  },
+  "src/routes/Orphan Clicker/+page.svelte": {
+    "file": "_app/immutable/components/pages/Orphan Clicker/_page.svelte-203ed1ea.js",
+    "src": "src/routes/Orphan Clicker/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-46982e98.js"
     ],
     "css": [
-      "_app/immutable/assets/_page-3ebc392f.css"
-    ]
-  },
-  "src/routes/liam/+page.svelte": {
-    "file": "_app/immutable/components/pages/liam/_page.svelte-acb75555.js",
-    "src": "src/routes/liam/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-46982e98.js"
+      "_app/immutable/assets/_page-f5469939.css"
     ]
   },
   "src/routes/telltale/+page.svelte": {
@@ -107,7 +107,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-e54bbbb1.js",
+    "file": "_app/immutable/chunks/2-17bd51e2.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
@@ -115,11 +115,11 @@
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-baf9fae3.js",
+    "file": "_app/immutable/chunks/3-bb7f5b05.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
-      "src/routes/liam/+page.svelte"
+      "src/routes/Orphan Clicker/+page.svelte"
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
@@ -130,9 +130,9 @@
       "src/routes/telltale/+page.svelte"
     ]
   },
-  "src/routes/+page.css": {
-    "file": "_app/immutable/assets/_page-3ebc392f.css",
-    "src": "src/routes/+page.css"
+  "src/routes/Orphan Clicker/+page.css": {
+    "file": "_app/immutable/assets/_page-f5469939.css",
+    "src": "src/routes/Orphan Clicker/+page.css"
   },
   "src/routes/telltale/+page.css": {
     "file": "_app/immutable/assets/_page-d87fb246.css",
