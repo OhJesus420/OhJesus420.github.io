@@ -15,8 +15,8 @@
 
 <style>
 h1{
-  color: white;
-  background-color: gray;
+  color: yellow;
+  background-color: blue;
   background-position: center;
   width: fit-content;
   padding: 20px;
