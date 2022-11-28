@@ -30,7 +30,7 @@ h1{
 }
 pic img{
   height: 200px;
-  width: 100px;
+  width: 200px;
 }
 
 </style>
