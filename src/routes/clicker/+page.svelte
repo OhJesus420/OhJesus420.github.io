@@ -8,12 +8,11 @@
   Orphan Clicker
 </h1>
 </center>
+
+<pic> <img src="https://houseinspectionhelp.com/3/images/small-old-house.jpg" alt="Small house">
+</pic>
+
 <h2>
-<div class="Pics">
-  <img alt="House" src="https://houseinspectionhelp.com/3/images/small-old-house.jpg">
-</div>
-
-
 </h2>
 
 
