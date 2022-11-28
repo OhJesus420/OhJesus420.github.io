@@ -29,8 +29,8 @@ h1{
   
 }
 pic img{
-  height: 40px;
-  width: 5px;
+  height: 200px;
+  width: 100px;
 }
 
 </style>
