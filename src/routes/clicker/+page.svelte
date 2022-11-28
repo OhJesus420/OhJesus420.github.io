@@ -5,9 +5,11 @@
 
 
 <h1>
-  <center>Orphan Clicker</center>
+  class="title">Orphan Clicker
 </h1>
-
+.title {
+  text-align: center;
+}
 <h2>JA</h2>
 
 
