@@ -5,9 +5,7 @@
 
 
 <h1>
-  <center>
-    Orphan Clicker
-  </center>
+  <center>Orphan Clicker</center>
 </h1>
 
 <h2>JA</h2>
