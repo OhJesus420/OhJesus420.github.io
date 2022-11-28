@@ -9,8 +9,11 @@
 </h1>
 </center>
 
+<div class="Pics">
+  <img alt="House" src="https://houseinspectionhelp.com/3/images/small-old-house.jpg">
+</div>
+
 <h2>
-  <Image src="https://houseinspectionhelp.com/3/images/small-old-house.jpg"
 </h2>
 
 
