@@ -5,13 +5,13 @@
 
 <center>
 <h1>
-  Orphan Clicker
+  Cocaine Clicker
 </h1>
 </center>
 
 <pic> <img src="https://houseinspectionhelp.com/3/images/small-old-house.jpg" alt="Small house">
 </pic>
-<buttom type="Submit">"Buy small orphanage"</buttom>
+<buttom type="Submit">"Buy small cocaine lockup"</buttom>
 <h2>
 </h2>
 
