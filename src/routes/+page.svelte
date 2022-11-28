@@ -15,8 +15,14 @@
 
 <style>
 h1{
-  background-color: rgb(10, 10, 10);
+  color: white;
+  background-color: gray;
+  background-position: center;
+  width: fit-content;
   padding: 20px;
+  border-radius: 5px;
+
+  
 }
 
 </style>
