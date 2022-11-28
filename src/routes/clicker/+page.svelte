@@ -28,5 +28,9 @@ h1{
 
   
 }
+pic{
+  padding: 40px;
+  border-radius: 5px;
+}
 
 </style>
