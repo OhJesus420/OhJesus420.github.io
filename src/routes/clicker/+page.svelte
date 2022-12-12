@@ -1,11 +1,12 @@
 <script>
 </script>
 
-<main>
+<title>
   <center>
     <title>0$</title>
   </center>
-
+</title>
+  <main>
   <clicker>
     <img src="https://www.colorado.edu/asmagazine-archive/sites/default/files/wordpress_import/images/news.cocaine.530.jpg" alt="ClickCocaine">
   </clicker>
