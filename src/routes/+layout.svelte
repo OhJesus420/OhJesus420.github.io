@@ -1,6 +1,6 @@
 <nav>
   <a href="/">Hem</a>
-  <a href="/clicker">Orphan Clicker</a>
+  <a href="/clicker">Cocaine Clicker</a>
 
   <a
     target="_blank"
