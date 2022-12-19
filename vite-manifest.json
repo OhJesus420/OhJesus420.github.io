@@ -137,12 +137,12 @@
     "file": "_app/immutable/assets/_layout-7ce735ef.css",
     "src": "src/routes/+layout.css"
   },
-  "src/routes/clicker/+page.css": {
-    "file": "_app/immutable/assets/_page-be4b8d18.css",
-    "src": "src/routes/clicker/+page.css"
-  },
   "src/routes/telltale/+page.css": {
     "file": "_app/immutable/assets/_page-d87fb246.css",
     "src": "src/routes/telltale/+page.css"
+  },
+  "src/routes/clicker/+page.css": {
+    "file": "_app/immutable/assets/_page-be4b8d18.css",
+    "src": "src/routes/clicker/+page.css"
   }
 }
