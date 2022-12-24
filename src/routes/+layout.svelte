@@ -1,33 +1,53 @@
-<nav>
-  <a href="/">Hem</a>
-  <a href="/clicker">Cocaine Clicker</a>
-  <a href="/telltale">telltale</a>
-  <a href="/todo">Todo list</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Task List 2021</title>
 
-  <a
-    target="_blank"
-    href="https://github.com/williamviktorsson/williamviktorsson.github.io"
-    >GitHub</a
-  >
-</nav>
+	<link rel="stylesheet" href="main.css" />
+</head>
+<body>
+	
+	<header>
+		<h1>Task List 2021</h1>
+		<form id="new-task-form">
+			<input 
+				type="text" 
+				name="new-task-input" 
+				id="new-task-input" 
+				placeholder="What do you have planned?" />
+			<input 
+				type="submit"
+				id="new-task-submit" 
+				value="Add task" />
+		</form>
+	</header>
+	<main>
+		<section class="task-list">
+			<h2>Tasks</h2>
 
+			<div id="tasks">
 
-<slot />
+				<!-- <div class="task">
+					<div class="content">
+						<input 
+							type="text" 
+							class="text" 
+							value="A new task"
+							readonly>
+					</div>
+					<div class="actions">
+						<button class="edit">Edit</button>
+						<button class="delete">Delete</button>
+					</div>
+				</div> -->
 
-<style>
+			</div>
+		</section>
+	</main>
 
-nav {
-    border-bottom: 2px solid rgb(6, 5, 5); /* This is the line replacing the hr*/
-    margin-bottom: 0px; /* This is the space below the line */
-    padding-bottom: 15px; /* This is the space between the heading text and the line */
-}
-
-  :global(body){
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    overflow: hidden;
-  }
-
-
-</style>
+	<script src="main.js"></script>
+</body>
+</html>

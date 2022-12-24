@@ -1,6 +1,6 @@
 <script>
   import { story_id_store } from "$lib/stores";
-  import { stories } from "$telltale/game";
+  import { stories } from "$lib/stories";
 
   
   import { fly } from "svelte/transition";
