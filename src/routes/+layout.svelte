@@ -1,6 +1,8 @@
 <nav>
   <a href="/">Hem</a>
   <a href="/clicker">Cocaine Clicker</a>
+  <a href="/telltale">telltale</a>
+  <a href="/todo">Todo list</a>
 
   <a
     target="_blank"

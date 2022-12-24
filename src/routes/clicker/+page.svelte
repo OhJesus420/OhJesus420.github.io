@@ -63,8 +63,8 @@
   }
 
   #buttid:active {
-    transform: scale(1.02);
-    transition: all 0.25s;
+    transform: scale(1.08);
+    transition: all 0.20s;
   }
 
   img {
