@@ -1,5 +1,5 @@
 <nav>
-<a href="clicker">Cockaine Clicer</a>
+<a href="clicker">Cocaine Clicer</a>
 <a href="telltale">telltale</a>
 <a href="todo">Todo</a>
 <a href="memory">Memory</a>
