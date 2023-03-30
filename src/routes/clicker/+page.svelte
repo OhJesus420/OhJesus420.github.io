@@ -24,7 +24,7 @@
 
 <style>
   main {
-    background-color: #888888;
+    background-color: #7b7b7b;
     height: 100vh;
   }
 
@@ -47,8 +47,7 @@
     place-items: center;
     padding: 0px;
     border-radius: 100%;
-    overflow: hidden;
-    background-image: url("https://www.colorado.edu/asmagazine-archive/sites/default/files/wordpress_import/images/news.cocaine.530.jpg");
+    overflow: hidden;    background-image: url("https://www.colorado.edu/asmagazine-archive/sites/default/files/wordpress_import/images/news.cocaine.530.jpg");
     background-size: cover;
     height: 200px;
     width: 200px;
@@ -70,6 +69,5 @@
   img {
     height: 200px;
     width: 200px;
-    background-position: center;
-  }
+    background-position: center; }
 </style>

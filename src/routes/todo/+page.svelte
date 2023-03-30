@@ -59,8 +59,8 @@
 		margin-top: 20px;
 	}
 	.addButton{
-		width: 5vw;
-		height: 5vh;
+		width: 6vw;
+		height: 8vh;
 		background-color: rgb(118, 2, 114);
 		color: white;
 	}

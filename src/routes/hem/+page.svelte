@@ -6,7 +6,7 @@
 
 </h1>
 <h2>
-    Om ett problem uppstår nås jag på swish 
+    Om ett problem uppstår nås jag på swish    
     070-984-11-35
 </h2>
 
