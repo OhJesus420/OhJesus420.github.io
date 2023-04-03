@@ -6,7 +6,7 @@
 <a href="/memory">Memory</a>
 <a href="/chatbot">ChatBot</a>
 <a href="/search">Search</a>
-<a href="blog">Blog</a>
+<a href="/blog">Blog</a>
 
 <a
 	target="blank"
@@ -19,7 +19,7 @@
 <hr/>
 
 <svelte:head>
-    <link rel="stylesheet" href="css/pico.min.css">
+    <link rel="stylesheet" href="/pico.min.css">
 
     <style>
       nav {

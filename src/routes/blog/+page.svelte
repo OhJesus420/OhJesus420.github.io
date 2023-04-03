@@ -1,6 +1,7 @@
 <script>
     /** @type {import('./$types').PageData} */
     export let data;
+    console.log(data.posts)
   </script>
   
   <h1>Blog</h1>

@@ -27,11 +27,8 @@
       >
      
         {#if game}
-          {#if game.img}
-            <img src={game.img} alt={game.message} />
-          {/if}
+
           {#if game.html}
-         
             {@html game.html}
           {/if}
           <p>{game.message}</p>
