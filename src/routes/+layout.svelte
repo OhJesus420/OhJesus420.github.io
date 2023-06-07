@@ -7,6 +7,9 @@
 <a href="/chatbot">ChatBot</a>
 <a href="/search">Search</a>
 <a href="/blog">Blog</a>
+<a href="/casino">Casino</a>
+
+
 
 <a
 	target="blank"
@@ -18,17 +21,10 @@
 
 <hr/>
 
-<svelte:head>
-    <link rel="stylesheet" href="/pico.min.css">
-
-    <style>
-      nav {
-        margin-left: 10%;
-        margin-right: 10%;
-      }
-    </style>
-
-</svelte:head>
-
 <slot />
 
+<style>
+  hr{
+    margin-bottom: 0;
+  }
+</style>
